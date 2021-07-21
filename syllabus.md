@@ -218,7 +218,7 @@ Tutorial: Processing.js
 Tutorial: Timeline.js
 
 - *Design Justice*: Design Sites
-- Kathryn Holland and Susan Brown, "Project | Process | Product: Feminist Digital Subjectivity in a Shifting Scholarly Field" in [*Bodies of Information*](https://dhdebates.gc.cuny.edu/projects/bodies-of-information)
+- Kathryn Holland and Susan Brown, "Project \ Process \ Product: Feminist Digital Subjectivity in a Shifting Scholarly Field" in [*Bodies of Information*](https://dhdebates.gc.cuny.edu/projects/bodies-of-information)
 - Marika Cifor and Britt S. Paris, [*Throughlines: Social Injustice and Activism in Los Angeles.](https://scalar.usc.edu/works/throughlines/index)
 - **Making Exercise Twelve: Timeline**
 
