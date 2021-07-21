@@ -250,6 +250,8 @@ Tutorial: ArcGIS
 
 ### Final Reflection (Monday, December 6, 2021)
 
+- Submit & complete your reflection, as well as any approved late work, by the end of finals week!
+
 ---
 
 ## General Policies
