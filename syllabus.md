@@ -132,6 +132,7 @@ Tutorial: Pixlr
 Tutorial: Video
 
 - *Your Computer is On Fire* - Introductions
+- David Staley, "On the 'Maker Turn' in Digital Humanities." in [*Making Things and Drawing Boundaries*](https://dhdebates.gc.cuny.edu/projects/making-things-and-drawing-boundaries)
 - [Casey Fiesler](https://www.tiktok.com/@professorcasey?lang=en) on TikTok
 - Explore: [*Buzzademia*](http://hyperrhiz.io/hyperrhiz21/)
 - **Making Exercise Three: "Internet Vernacular""**
@@ -142,6 +143,7 @@ Tutorial: Twine
 
 - *Your Computer is On Fire* - Part I
 - Laura Okkema, [*Hearing the Voices of the Deserters*](https://stars.library.ucf.edu/etd/6361/)
+- Rachel Ponce, [Surviving History: The Fever!](http://theappendix.net/special/the-fever)
 - Explore: [*The Digital Review*](https://thedigitalreview.com/)
 - **Making Exercise Four: Hypertext**
   
@@ -188,6 +190,7 @@ Tutorial: D3.js
 
 - *Design Justice*: Design Values
 - Catherine D'Ignazio and Lauren Klein, "Feminist Data Visualization." (PDF)
+- Micki Kaufman, [*Quantifying Kissinger*](https://blog.quantifyingkissinger.com/)
 - Explore: [*Kairos Special Issue: Data Visualization*](https://kairos.technorhetoric.net/25.1/index.html)
 - **Making Exercise Nine: Visualization**
 
@@ -197,6 +200,7 @@ Tutorial: Scalar
 
 - *Design Justice*: Design Practices
 - Micha Cardenas, [*Redshift & Portalmetal*](https://collection.eliterature.org/3/work.html?work=redshift-and-portalmetal)
+- Evan Bissell, [*The Knotted Line*](https://scalar.usc.edu/anvc/the-knotted-line/index)
 - Explore: [Scalar exhibitions](https://libraries.usc.edu/collection/digital-exhibitions)
 - **Making Exercise Ten: Exhibition**
 
@@ -233,6 +237,7 @@ Tutorial: ArcGIS
 
 - *Design Justice*: Directions for Future Work
 - Katherine Hepworth and Christopher Church, ["Racism in the Machine: Visualization Ethics in Digital Humanities Projects."](http://www.digitalhumanities.org/dhq/vol/12/4/000408/000408.html)
+- Nesbit and Ayers, ["Visualizing Emancipation."](https://dsl.richmond.edu/emancipation/)
 - Crider and Anderson, ["Disney Death Tour"](https://kairos.technorhetoric.net/23.2/topoi/crider-anderson/index.html)
 - **Making Exercise Fourteen: Map**
 
