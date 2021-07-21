@@ -17,13 +17,13 @@
   - [Evaluation and Grading](#evaluation-and-grading)
   - [Asynchronous Online Course Structure](#asynchronous-online-course-structure)
   - [Weekly Schedule](#weekly-schedule)
-    - [Week One: Terms of Usage (Monday, August 23, 2021)](#week-one-terms-of-usage-monday-august-23-2021)
-    - [Week Two: Virtual (Monday, August 30, 2021)](#week-two-virtual-monday-august-30-2021)
-    - [Week Three: Games (Holiday - Online Module)](#week-three-games-holiday---online-module)
-    - [Week Four: Platforms (Monday, September 13, 2021)](#week-four-platforms-monday-september-13-2021)
-    - [Week Five: Noise (Monday, September 20, 2021)](#week-five-noise-monday-september-20-2021)
-    - [Week Six: Images (Monday, September 27, 2021)](#week-six-images-monday-september-27-2021)
-    - [Week Seven: Comics (Monday, October 4, 2021)](#week-seven-comics-monday-october-4-2021)
+    - [Week One: Shape of Our Thoughts (Monday, August 23, 2021)](#week-one-shape-of-our-thoughts-monday-august-23-2021)
+    - [Week Two: Unflattening (Monday, August 30, 2021)](#week-two-unflattening-monday-august-30-2021)
+    - [Week Three: Terms of Usage (Monday, September 6, 2021)](#week-three-terms-of-usage-monday-september-6-2021)
+    - [Week Four: Hypertext (Monday, September 13, 2021)](#week-four-hypertext-monday-september-13-2021)
+    - [Week Five: Games (Monday, September 20, 2021)](#week-five-games-monday-september-20-2021)
+    - [Week Six: Platforms (Monday, September 27, 2021)](#week-six-platforms-monday-september-27-2021)
+    - [Week Seven: Noise (Monday, October 4, 2021)](#week-seven-noise-monday-october-4-2021)
     - [Week Eight: Archives (Monday, October 11, 2021)](#week-eight-archives-monday-october-11-2021)
     - [Week Nine: Values (Monday, October 18, 2021)](#week-nine-values-monday-october-18-2021)
     - [Week Ten: Practices (Monday, October 25, 2021)](#week-ten-practices-monday-october-25-2021)
@@ -108,80 +108,138 @@ This course uses a fully asyncrhonous online format, and relies upon students to
 
 ## Weekly Schedule
 
-### Week One: Terms of Usage (Monday, August 23, 2021)
-
-- *Your Computer is On Fire* - Introductions
-- **Due: Activity Verification (Friday August 27th)**
-- **Making Exercise One: AntConc**
-
-### Week Two: Virtual (Monday, August 30, 2021)
-
-- *Your Computer is On Fire* - Part I
-- **Making Exercise Two: Twine**
-
-### Week Three: Games (Holiday - Online Module)
-
-- *Your Computer is On Fire* - Part II
-- **Making Exercise Three: Bitsy**
-
-### Week Four: Platforms (Monday, September 13, 2021)
-
-- *Your Computer is On Fire* - Part III
-- **Making Exercise Four: Glitch**
-  
-### Week Five: Noise (Monday, September 20, 2021)
-
-- *Your Computer is On Fire* - Afterwords
-- **Making Exercise Five: Tracery**
-
-### Week Six: Images (Monday, September 27, 2021)
+### Week One: Shape of Our Thoughts (Monday, August 23, 2021)
 
 - *Unflattening* - First Half
-- **Making Exercise Six: Canva**
-  
-### Week Seven: Comics (Monday, October 4, 2021)
+- Matt Ratto, "Critical Making: Conceptual and Material Studies in Technology and Social Life." (PDF)
+- Leah Collins and Shaheer Zazai, ["How to Weave an Afghan rug...using Microsoft Word."](https://www.cbc.ca/arts/how-to-weave-an-afghan-rug-using-microsoft-word-1.4612765)
+- **Due: Activity Verification (Friday August 27th)**
+- **Making Exercise One: "Selfie"**
+
+### Week Two: Unflattening (Monday, August 30, 2021)
+
+Tutorial: Pixlr
 
 - *Unflattening* - Second Half
-- **Making Exercise Seven: Photoshop**
+- Garnet Hertz, "Making Critical Making." (PDF)
+- Jason Helms, [*Rhizcomics*](https://www.digitalrhetoriccollaborative.org/rhizcomics/)
+- **Making Exercise Two: Comic**
+
+### Week Three: Terms of Usage (Monday, September 6, 2021)
+
+Tutorial: Video
+
+- *Your Computer is On Fire* - Introductions
+- [Casey Fiesler](https://www.tiktok.com/@professorcasey?lang=en) on TikTok
+- Explore: [*Buzzademia*](http://hyperrhiz.io/hyperrhiz21/)
+- **Making Exercise Three: "Internet Vernacular""**
+
+### Week Four: Hypertext (Monday, September 13, 2021)
+
+Tutorial: Twine
+
+- *Your Computer is On Fire* - Part I
+- Laura Okkema, [*Hearing the Voices of the Deserters*](https://stars.library.ucf.edu/etd/6361/)
+- Explore: [*The Digital Review*](https://thedigitalreview.com/)
+- **Making Exercise Four: Hypertext**
+  
+### Week Five: Games (Monday, September 20, 2021)
+
+Tutorial: Bitsy
+
+- *Your Computer is On Fire* - Part II
+- Sabinne Harrer, "Radical Jamming." (PDF)
+- cecile richard, [*Endless Scroll*](https://haraiva.itch.io/endless-scroll)
+- Explore: [The Bitsy Essay Jam](https://itch.io/jam/the-bitsy-essay-jam/entries)
+- **Making Exercise Five: Game**
+
+### Week Six: Platforms (Monday, September 27, 2021)
+
+Tutorial: Glitch
+
+- *Your Computer is On Fire* - Part III
+- Stephanie Boluk and Patrick LeMieux, "Metagaming: Videogames and the Practice of Play." in [*Metagaming*](https://manifold.umn.edu/read/metagaming/section/ca0c7a57-96bf-41fc-910b-3652b6872404#intro)
+- Explore: [The RHIZ-cade](http://media.hyperrhiz.io/hyperrhiz22/sf/pinball/index.html)
+- **Making Exercise Six: Metagame**
+  
+### Week Seven: Noise (Monday, October 4, 2021)
+
+Tutorial: Tracery
+
+- *Your Computer is On Fire* - Afterwords
+- Mark Sample, ["The Infinite Catalog of Crushed Dreams."](https://fugitivetexts.net/pandemicdreams/)
+- Explore: [NaNoGenMo](https://nanogenmo.github.io/)
+- **Making Exercise Seven: Generator**
 
 ### Week Eight: Archives (Monday, October 11, 2021)
 
+Tutorial: Omeka
+
 - *Design Justice* - Introduction
-- **Making Exercise Eight: Omeka**
+- Dorothy Kim, "Building Pleasure and the Digital Archive." in [*Bodies of Information*](https://dhdebates.gc.cuny.edu/projects/bodies-of-information)
+- Explore: [Omeka Showcase](https://omeka.org/classic/showcase/)
+- **Making Exercise Eight: Curation**
 
 ### Week Nine: Values (Monday, October 18, 2021)
 
+Tutorial: D3.js
+
 - *Design Justice*: Design Values
-- **Making Exercise Nine: Neatline**
+- Catherine D'Ignazio and Lauren Klein, "Feminist Data Visualization." (PDF)
+- Explore: [*Kairos Special Issue: Data Visualization*](https://kairos.technorhetoric.net/25.1/index.html)
+- **Making Exercise Nine: Visualization**
 
 ### Week Ten: Practices (Monday, October 25, 2021)
 
+Tutorial: Scalar
+
 - *Design Justice*: Design Practices
-- **Making Exercise Ten: Scalar**
+- Micha Cardenas, [*Redshift & Portalmetal*](https://collection.eliterature.org/3/work.html?work=redshift-and-portalmetal)
+- Explore: [Scalar exhibitions](https://libraries.usc.edu/collection/digital-exhibitions)
+- **Making Exercise Ten: Exhibition**
 
 ### Week Eleven: Narratives (Monday, November 1, 2021)
 
+Tutorial: Processing.js
+
 - *Design Justice*: Design Narratives
-- **Making Exercise Eleven: Processing.js**
+- [*Black Beaches*](https://arij.net/investigations/black-beaches-en/)
+- Kenton Taylor Howard (link forthcoming)
+- **Making Exercise Eleven: Narrative**
   
 ### Week Twelve: Sites (Monday, November 8, 2021)
 
+Tutorial: Timeline.js
+
 - *Design Justice*: Design Sites
-- **Making Exercise Twelve: Timeline.js**
+- Kathryn Holland and Susan Brown, "Project | Process | Product: Feminist Digital Subjectivity in a Shifting Scholarly Field" in [*Bodies of Information*](https://dhdebates.gc.cuny.edu/projects/bodies-of-information)
+- Marika Cifor and Britt S. Paris, [*Throughlines: Social Injustice and Activism in Los Angeles.](https://scalar.usc.edu/works/throughlines/index)
+- **Making Exercise Twelve: Timeline**
 
 ### Week Thirteen: Pedagogies (Monday, November 15, 2021)
 
+Tutorial: Humanities Commons
+
 - *Design Justice*: Design Pedagogies
-- **Making Exercise Thirteen: ArcGIS**
+- Debbie Chachra, "Beyond Making" in [*Making Things and Drawing Boundaries*](https://dhdebates.gc.cuny.edu/projects/making-things-and-drawing-boundaries)
+- Explore: [*Digital Pedagogy in the Humanities*](https://digitalpedagogy.hcommons.org/)
+- **Making Exercise Thirteen: Lesson**
 
 ### Week Fourteen: Futures (Monday, November 22, 2021)
 
+Tutorial: ArcGIS
+
 - *Design Justice*: Directions for Future Work
-- **Making Exercise Fourteen: D3.js**
+- Katherine Hepworth and Christopher Church, ["Racism in the Machine: Visualization Ethics in Digital Humanities Projects."](http://www.digitalhumanities.org/dhq/vol/12/4/000408/000408.html)
+- Crider and Anderson, ["Disney Death Tour"](https://kairos.technorhetoric.net/23.2/topoi/crider-anderson/index.html)
+- **Making Exercise Fourteen: Map**
 
 ### Week Fifteen: Creating (Monday, November 29, 2021)
 
-- **Making Exercise Fifteen: Open Making**
+- Jeremy Boggs, Jennifer Reed, and J.K. Purdom Lindblad, "Making it Matter" in [*Making Things and Drawing Boundaries*](https://dhdebates.gc.cuny.edu/projects/making-things-and-drawing-boundaries)
+- Vera Sebert, [*The Book You are Looking For Does Not Exist*](https://the-book-you-are-looking-for-does-not-exist.xyz/)
+- Koeser, Doroudian, Budak, Li. "Data Beyond Vision" in [*Startwords* Issue 1](https://startwords.cdh.princeton.edu/)
+- **Making Exercise Fifteen: Multimodal**
 
 ### Final Reflection (Monday, December 6, 2021)
 
