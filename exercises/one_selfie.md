@@ -22,24 +22,26 @@ This week, I took the same prompt as I've given you here, and took it as a chall
 
 Given that, I set out with a basic plan for my making: first, I would find a way to filter or algorithmically manipulate an image of myself into something that sparked a visual interest or connection. Then, I would rapidly prototype that manipulated image using simple quilting methods. I considered loading up Photoshop, but knew that would likely put me on a path of perfectionism with my search for a meaningful way to manipulate my image: instead, I searched for Android apps with decent ratings for photo manipulation, and ended up downloading one called "Glitch Lab."
 
-[The original photo](../img/original.jpg)
-[The manipulated photo](../img/glitched.png)
+- ![The original photo](../img/original.jpg)
+- ![The manipulated photo](../img/glitched.png)
 
 There's a lot of options in this that I knew would lead me down a path of tiny pieces and excessive time for this exercise, so I explored the pre-built filters until I found one that offered a distortion that offered a retro feeling that reminded me of the algorithmic distortions of glitch art broadly.
 
 However, I realized as I moved to the next step that I'd set myself a challenge of materiality: the vibrant colors of the unnatural, processed image were poorly matched by my collection of quilting cottons. But rather than backtrack, I decided to embrace the muted palette and acknowledge that the transformation from tech to textile is perhaps appropriately a type of "softening."
 
-[First fabric pull](../img/fabric.jpg)
+- ![First fabric pull](../img/fabric.jpg)
 
 Some of these fabrics date back to the 90s: I've been working with textile in one way or another for a long time. My fabric collection is its own archive reflecting back phases of my work in ways that are themselves layered with memory - for instance, one of the purples I pulled is a remnant from a baby quilt patterned off Eric Carle's illustrations. Playing with intertext(ile)uality is inherent in quilting, and something I like to bring to critical making in any medium.
 
 Once I settled on fabric, the next step was cutting. I could achive something more exacting through digital tools - taking that photo manipulation into photoshop, using it as a cutting pattern, and allowing the machine to cut with precision. However, the labor in that would far exceed the time allowed for experimentation, so instead I went with a hasty sketch to guide free-hand cutting of applique shapes. (For the textile-y, I used double-sided fusible interfacing so that I could place the shapes quickly and not worry about carefully sewing everything on.)
 
-[The low-fidelity sketch](../img/sketch.jpg)
-[Starting to cut](../img/cutting.jpg)
+- ![The low-fidelity sketch](../img/sketch.jpg)
+- ![Starting to cut](../img/cutting.jpg)
 
 I've never quilted a selfie before, and I've been wary of trying to do anything human-looking because the precision is so demanding. But for this, I wanted to play with impressions. Once everything was ironed down, I moved to the sewing machine to add the "quilting"--the lines that hold everything together. For speed, I stuck with a single color of embroidery thread, and thought about using linework to capture impressions (ok, and maybe wrinkles.)
 
-[Quilting the lines](../img/quilting.jpg)
+- ![Quilting the lines](../img/quilting.jpg)
 
 The end result is something not particularly human (the vote in my group chat was "remotely human"), but in the process of blending the procedural artist input of the app's glitched lens with the fiber materiality I see the potential for exploring how we negotiate the tech-text-textile. I could imagine revisiting this as part of thinking through feminist lenses on manipulated photography, which is frequently associated with vanity and performance of artifice. The outcome is perhaps more than a little unrecognizable, but the process is one I would revisit.
+
+- ![The finished thing](../img/complete.jpg)
