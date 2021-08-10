@@ -116,7 +116,7 @@ This course uses a fully asyncrhonous online format, and relies upon students to
 - Matt Ratto, "Critical Making: Conceptual and Material Studies in Technology and Social Life." (PDF)
 - Leah Collins and Shaheer Zazai, ["How to Weave an Afghan rug...using Microsoft Word."](https://www.cbc.ca/arts/how-to-weave-an-afghan-rug-using-microsoft-word-1.4612765)
 - **Due: Activity Verification (Friday August 27th)**
-- **Making Exercise One: "Selfie"**
+- **[Making Exercise One: "Selfie"](/exercises/one_selfie.md)**
 
 ### Week Two: Unflattening (Monday, August 30, 2021)
 
