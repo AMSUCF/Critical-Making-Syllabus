@@ -24,4 +24,8 @@ It's OK to be inconistent in your style: in your reflection, discuss what you we
 
 - ![Alice in Dataland](../img/comic.jpg)
 
+I used this approach for the cheesy, cartoony illustrations for a full section of that *Kairos* article, [viewable here](https://kairos.technorhetoric.net/20.1/inventio/salter/five/index.html).
+
+- ![Excerpt](../img/dataland.jpg)
+
 This type of remix, tracing-to-create, and play is welcome. Remember, we're cultivating here an approach to the material that we'll bring into the digital as we progress this semester! As with the other approaches we'll be trying, know that some of the students in this course have much more experience with visual creativity than others, so try to focus on your own work and process rather than comparing yourself to others.
