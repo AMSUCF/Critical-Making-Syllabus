@@ -54,7 +54,7 @@ Each week, plan on following the module for all asynchronous activities. Each mo
 
 - **Weekly Readings.** Complete this combination of primary and secondary texts prior to starting the making exercise. The full schedule of required readings is listed in the syllabus: additional recommended readings will be provided in each module.
 - **Making Exercises.** Each week's making exercise will involve experimenting with a different tool for making: guidance will be provided on configuring and getting started with the tool, and students are encouraged to be inventive and playful.
-- **Reflective Dicussion.** A weekly online discussion will provide the opportunity to share the process of making: the emphasis is not on "success" or "failure," but on growth, exploration, and experimentation.
+- **Reflective Discussion.** A weekly online discussion will provide the opportunity to share the process of making: the emphasis is not on "success" or "failure," but on growth, exploration, and experimentation.
 
 ---
 
@@ -99,7 +99,7 @@ There is no extra credit work available in this class. Grades will be available 
 
 ## Asynchronous Online Course Structure
 
-This course uses a fully asyncrhonous online format, and relies upon students to complete all readings, engage with both course lectures and other online videos, and join in on course discussions. All assignments are due at the close of their listed module, but will be accepted with no penalty through the next listed deadline. Once an assignment closes, late work will not be accepted unless an additional extension has already been approved by the instructor: please reach out early if circumstances will require additional time!
+This course uses a fully asynchronous online format, and relies upon students to complete all readings, engage with both course lectures and other online videos, and join in on course discussions. All assignments are due at the close of their listed module, but will be accepted with no penalty through the next listed deadline. Once an assignment closes, late work will not be accepted unless an additional extension has already been approved by the instructor: please reach out early if circumstances will require additional time!
 
 - The course has no synchronous meeting requirements: however, students are encouraged to engage in optional check-in meetings to think through their process and growth. Optional synchronous meetings will be scheduled based on the poll conducted in the first week of class.
 - Office hour assistance is additionally available both through text on Webcourses messages and via Zoom: Zoom is recommended for advanced technical problems, where screen-sharing might be helpful to resolving errors.
