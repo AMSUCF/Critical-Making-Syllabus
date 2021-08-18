@@ -2,7 +2,7 @@
 
 - **Instructor:** Dr. Anastasia Salter
 - **Email:** anastasia@ucf.edu
-- **Office:** TCH 236B; Monday 2:00 - 5:00 PM & Zoom
+- **Office:** Zoom; Monday 2:00 - 5:00 PM
 - **Course Meeting:** Asynchronous Online
   
 ---
@@ -101,7 +101,7 @@ There is no extra credit work available in this class. Grades will be available 
 
 This course uses a fully asyncrhonous online format, and relies upon students to complete all readings, engage with both course lectures and other online videos, and join in on course discussions. All assignments are due at the close of their listed module, but will be accepted with no penalty through the next listed deadline. Once an assignment closes, late work will not be accepted unless an additional extension has already been approved by the instructor: please reach out early if circumstances will require additional time!
 
-- The course has no synchronous meeting requirements: however, students are encouraged to engage in optional check-in meetings to think through their process and growth. Sign-ups will be available at milestone points of the semester.
+- The course has no synchronous meeting requirements: however, students are encouraged to engage in optional check-in meetings to think through their process and growth. Optional synchronous meetings will be scheduled based on the poll conducted in the first week of class.
 - Office hour assistance is additionally available both through text on Webcourses messages and via Zoom: Zoom is recommended for advanced technical problems, where screen-sharing might be helpful to resolving errors.
 - Students will need access to a reliable internet connection and computer to participate in this course. Due to some of the tool installation needs, administrative access to the system is required to complete assignments.
 - In the event of an emergency or medical challenge, additional flexibility beyond the grading guidelines is available: when anticipated, students should reach out to the instructor as soon as feasible to form a plan or discuss an incomplete if needed.
@@ -125,7 +125,7 @@ Tutorial: Pixlr
 - *Unflattening* - Second Half
 - Garnet Hertz, "Making Critical Making." (PDF)
 - Jason Helms, [*Rhizcomics*](https://www.digitalrhetoriccollaborative.org/rhizcomics/)
-- **Making Exercise Two: Comic**
+- **[Making Exercise Two: Comic](/exercises/two_comic.md)**
 
 ### Week Three: Terms of Usage (Monday, September 6, 2021)
 
