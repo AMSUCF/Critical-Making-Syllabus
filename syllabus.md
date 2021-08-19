@@ -135,7 +135,7 @@ Tutorial: Video
 - David Staley, "On the 'Maker Turn' in Digital Humanities." in [*Making Things and Drawing Boundaries*](https://dhdebates.gc.cuny.edu/projects/making-things-and-drawing-boundaries)
 - [Casey Fiesler](https://www.tiktok.com/@professorcasey?lang=en) on TikTok
 - Explore: [*Buzzademia*](http://hyperrhiz.io/hyperrhiz21/)
-- **Making Exercise Three: "Internet Vernacular""**
+- **[Making Exercise Three: "Internet Vernacular"](/exercises/three_gifs.md)**
 
 ### Week Four: Hypertext (Monday, September 13, 2021)
 

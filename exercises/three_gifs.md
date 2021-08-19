@@ -26,11 +26,11 @@ We'll be using [Giphy](https://giphy.com/) as our primary free alternative this 
 
 The Giphy editing process consists of two stages: first, crop your clip down to an appropriate moment for a loop. Loops are a fundamental structure of the web - recall their importance to classic Flash animations - and one we'll encounter again in the context of programming. Loops reduce the amount of data required to provide content, and allow GIFs to function as shorthand - recall the essay examples, which employ them repeatedly.
 
-- ![Giphy editing](..img/giphy.png)
+- ![Giphy editing](../img/giphy.png)
 
 As you work, consider the options, and what they reflect about the internet vernacular and its assumptions. Think about your process, and how you would expect your GIF to be received in isolation from its original context of filming. Make three different GIFs this way - try to make them as distinct from one another as possible.
 
-- ![Final GIF](..img/attention.gif)
+- ![Final GIF](../img/attention.gif)
 
 ## The GIF-Making Process - Still Images
 
@@ -38,11 +38,11 @@ For our second stage of GIF-making, we'll keep the same ideas in mind, but work 
 
 Once you've created your images and thought about how they will flow (or clash) in sequence, it's time to add them to a timeline. The timeline is our next fundamental procedural element: it's the heart of Flash, which as you'll recall was one of the early platforms that shaped making and experimentation on the web. The timeline takes the ordering we explored last week spatially, through comics, and makes it a sequence the computer can process. We'll use Giphy again, but this time upload the first frame of your image. It will take you to a slideshow view where you can add more images, reorder them, and change the time of display.
 
-- ![Slideshow editing](..img/slideshow.png)
+- ![Slideshow editing](../img/slideshow.png)
 
 My final outcome here needs a lot of work - and I should have edited the photos for compositional consistency in advance! However, I like recapturing some of the influence of the gltich on the original selfie, and it serves as a quick documentation of a process that is otherwise invisible.
 
-- ![Shades](..img/shades.gif)
+- ![Shades](../img/shades.gif)
 
 ## Quick Tips
 
