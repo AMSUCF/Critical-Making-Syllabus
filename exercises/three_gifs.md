@@ -4,7 +4,7 @@ This week, we're going to start to play with digital making more directly throug
 
 ## The Internet Vernacular Prompt
 
-Keeping in mind the introductory provocations in *Your Computer is On Fire*, we'll be playing with the internet vernacular modeled in *Buzzademia* as a way to think through our relationship with making in public, and making for the web more broadly. As you work, keep the following guidelines in mind:
+Drawing on the introductory provocations in *Your Computer is On Fire*, we'll be playing with the internet vernacular modeled in *Buzzademia* as a way to think through our relationship with making in public, and making for the web more broadly. As you work, keep the following guidelines in mind:
 
 - **Explore Rapid Prototyping.** Make at least five shareable GIFs to include in your post, but consider making a lot more along the way. This is a "fast" form for internet communication - most of the work goes into shaping your source material, and having ideas on what to make. Try iterating and refining to make the most of this low-investment form.
 

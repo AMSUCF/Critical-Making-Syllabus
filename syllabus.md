@@ -145,7 +145,7 @@ Tutorial: Twine
 - Laura Okkema, [*Hearing the Voices of the Deserters*](https://stars.library.ucf.edu/etd/6361/)
 - Rachel Ponce, [Surviving History: The Fever!](http://theappendix.net/special/the-fever)
 - Explore: [*The Digital Review*](https://thedigitalreview.com/)
-- **Making Exercise Four: Hypertext**
+- **[Making Exercise Four: Hypertext](/exercises/four_hypertext.md)**
   
 ### Week Five: Games (Monday, September 20, 2021)
 
