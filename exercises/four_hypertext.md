@@ -19,8 +19,8 @@ Your work should be short (playable in less than five minutes) and doesn't need 
 This week, you can choose how to approach building your project depending on your experience with Twine and other web programming. I've provided a starter file that also serves as a tutorial: to get started with that file, follow these steps:
 
 1. **[Download Twine 2.](https://twinery.org/)** Follow the installation directions for your operating system, and make sure the application runs - you'll need administrative permissions and may need to agree to override security settings depending on your system.
-2. **[Download the Tutorial.](twineworkshop.html)** Save the file somewhere you can locate it on your computer, and open Twine 2. From the righthand menu, select "Import from file," and navigate to the .html file you downloaded.
-3. **Explore the Tutorial.** Load the tutorial in your web browser and follow the steps while referring back to the Twine file to see the original source. Try modifying the file directly to get started, or if you are more experienced with Twine, consider using one of the additional resources noted below. Consider building your first Twine by modifying the tutorial as suggested throughout.
+2. **[View the Tutorial Sample.](/exercises/materials/TwineDemo.html)** To view the source  code for help following along in the demo video, save the file somewhere you can locate it on your computer, and open Twine 2. From the righthand menu, select "Import from file," and navigate to the .html file you downloaded.
+3. **Build on the Tutorial.** Watch the video if you haven't already, and work through the steps on your own. Try modifying the file you create and make simple changes at first: focus on passages, links, and text design (font color, style, etc.) as your communication building blocks this week.
 
 Don't forget to save and test frequently as you work!
 
@@ -34,6 +34,6 @@ If you have experience or want to go beyond this initial tutorial, here's a few 
 
 ## Quick Tips
 
-1. Consider hosting your .html file, particularly if you want to include images, GIFs, and other audiovisual components. You can use hosting space you already have, or consider sharing your Twine work on GitHub pages.
+1. Consider hosting your .html file, particularly if you want to include images, GIFs, and other audiovisual components. You can use hosting space you already have, or consider sharing your Twine work on GitHub pages like my demo here. If you're new to the program and haven't used GitHub, don't worry about this optoin yet - we'll talk about it more later!
 2. Remember, don't use the web-based version of Twine 2 unless absolutely necessary, and if you are using it, make sure to save your .html file to your computer regularly! This is not an online hosting service, and you won't be able to access your project from a different browser.
-3. While there's lots of options out there for greater procedural complexity, don't worry about learning anything complex for this project! Focus on simple, choice-driven representation and exploring an idea you find compelling.
+3. While there's lots of options out there for greater procedural complexity, don't worry about learning anything complex for this project! Focus on simple, choice-driven representation and exploring an idea you find compelling. You don't need to use any elements that weren't covered in the demo, but you are welcome to experiment!

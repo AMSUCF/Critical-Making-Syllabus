@@ -155,7 +155,7 @@ Tutorial: Bitsy
 - Sabinne Harrer, "Radical Jamming." (PDF)
 - cecile richard, [*Endless Scroll*](https://haraiva.itch.io/endless-scroll)
 - Explore: [The Bitsy Essay Jam](https://itch.io/jam/the-bitsy-essay-jam/entries)
-- **Making Exercise Five: Game**
+- **[Making Exercise Five: Game](/exercises/five_games.md)**
 
 ### Week Six: Platforms (Monday, September 27, 2021)
 
