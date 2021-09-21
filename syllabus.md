@@ -164,7 +164,7 @@ Tutorial: Glitch
 - *Your Computer is On Fire* - Part III
 - Stephanie Boluk and Patrick LeMieux, "Metagaming: Videogames and the Practice of Play." in [*Metagaming*](https://manifold.umn.edu/read/metagaming/section/ca0c7a57-96bf-41fc-910b-3652b6872404#intro)
 - Explore: [The RHIZ-cade](http://media.hyperrhiz.io/hyperrhiz22/sf/pinball/index.html)
-- **Making Exercise Six: Metagame**
+- **[Making Exercise Six: Metagame](/exercises/six_meta.md)**
   
 ### Week Seven: Noise (Monday, October 4, 2021)
 
