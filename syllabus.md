@@ -173,7 +173,7 @@ Tutorial: Tracery
 - *Your Computer is On Fire* - Afterwords
 - Mark Sample, ["The Infinite Catalog of Crushed Dreams."](https://fugitivetexts.net/pandemicdreams/)
 - Explore: [NaNoGenMo](https://nanogenmo.github.io/)
-- **Making Exercise Seven: Generator**
+- **[Making Exercise Seven: Generator](/exercises/seven_generator.md)**
 
 ### Week Eight: Archives (Monday, October 11, 2021)
 
