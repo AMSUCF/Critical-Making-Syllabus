@@ -14,7 +14,7 @@ For this exercise, you will make and unleash a Tracery generator that responds t
 
 - **Be engageable in a space and context.** Either launch your grammar to Twitter as in the example (the simplest solution), or consider integrating it into a Twine or Bitsy experiment as described below. You can also embed it into a .html file, as in my [retro-generative collaboration with Anne Sullivan](https://dalamar.neocities.org/) or [Masked Making](http://www.asdesigned.com/maskedmaking/).
 
-As with our other exercises, make sure to include both a link to the generator (in whatever context you have deployed it, from Twitter bot to website to game) and your process reflection, drawing on the connections to our readings and considering the relationship your work has to a world of algorithmic content.
+As with our other exercises, make sure to include both a link to the generator (in whatever context you have deployed it, from Twitter bot to website to game) and your process reflection with screenshots from the process, drawing on the connections to our readings and considering the relationship your work has to a world of algorithmic content.
 
 ## Working with Tracery
 
