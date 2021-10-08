@@ -182,7 +182,7 @@ Tutorial: Omeka
 - *Design Justice* - Introduction
 - Dorothy Kim, "Building Pleasure and the Digital Archive." in [*Bodies of Information*](https://dhdebates.gc.cuny.edu/projects/bodies-of-information)
 - Explore: [Omeka Showcase](https://omeka.org/classic/showcase/)
-- **Making Exercise Eight: Curation**
+- **[Making Exercise Eight: Curation](/exercises/eight_omeka.md)**
 
 ### Week Nine: Values (Monday, October 18, 2021)
 

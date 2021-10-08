@@ -30,8 +30,8 @@ Follow our two-stage tutorial to first generate a simple grammar, then embed it 
 
 There are several paths for those with more experience, or for your future play in Tracery. Here's a few general resources on Tracery grammars and adding fun elements, such as emojis:
 
-- [Tracery Live Demo - Adding emoji and dynamic elements](https://gregoryaveryweir.github.io/tracery-live/) 
-- [Tracery Continued - Adding action rules](https://catn.decontextualize.com/public/notebooks/propp-inspired-tracery.html) 
+- [Tracery Live Demo - Adding emoji and dynamic elements](https://gregoryaveryweir.github.io/tracery-live/)
+- [Tracery Continued - Adding action rules](https://catn.decontextualize.com/public/notebooks/propp-inspired-tracery.html)
 
 One great option is to think about incorporating images - or even making memes or comics, as in our previous experiments:
 
