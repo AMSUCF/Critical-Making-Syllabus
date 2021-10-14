@@ -186,13 +186,13 @@ Tutorial: Omeka
 
 ### Week Nine: Values (Monday, October 18, 2021)
 
-Tutorial: D3.js
+Tutorial: P5.js (part one)
 
 - *Design Justice*: Design Values
 - Catherine D'Ignazio and Lauren Klein, "Feminist Data Visualization." (PDF)
 - Micki Kaufman, [*Quantifying Kissinger*](https://blog.quantifyingkissinger.com/)
 - Explore: [*Kairos Special Issue: Data Visualization*](https://kairos.technorhetoric.net/25.1/index.html)
-- **Making Exercise Nine: Visualization**
+- **[Making Exercise Nine: Visualization](/exercises/nine_visualization.md)**
 
 ### Week Ten: Practices (Monday, October 25, 2021)
 
@@ -206,7 +206,7 @@ Tutorial: Scalar
 
 ### Week Eleven: Narratives (Monday, November 1, 2021)
 
-Tutorial: Processing.js
+Tutorial: P5.js (part two)
 
 - *Design Justice*: Design Narratives
 - [*Black Beaches*](https://arij.net/investigations/black-beaches-en/)
