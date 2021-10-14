@@ -16,9 +16,19 @@ As with our other exercises, make sure to include both a link to any digital ele
 
 ## Walkthrough and Resources
 
+![Pie chart](/exercises/materials/p5sample.png)
+
+The three samples are shared using [Open Processing](https://openprocessing.org/). This platform is free and lets us eliminate certain steps (like uploading to a web server or configuring the file system) so we can focus on playing with the library itself. Start by creating a free account, then navigate to the samples covered in the video and fork each in turn to make your own iterations:
+
+- [Simple Bar Chart](https://openprocessing.org/sketch/1307584)
+- [Pie Chart](https://openprocessing.org/sketch/1307661)
+- [Text Click](https://openprocessing.org/sketch/1307624)
+
 In addition to the provided P5 materials, you might find it helpful to explore examples of data visualization broadly. Here are a few sources to start with:
 
 - [Information visualization examples](https://visme.co/blog/best-data-visualizations/)
 - [Walkthrough of complex P5 visualization](https://orbit.love/blog/visualize-orbit-levels-with-javascript-and-p5-js)
 - [Creative Coding with P5](https://creative-coding.decontextualize.com/first-steps/)
 - [Tableau Viz of the Day](https://public.tableau.com/app/discover/viz-of-the-day)
+
+Remember that each stage of this exercise serves a different purpose: if you've never worked with a library like P5.js before, don't expect to realize the type of concept that you might be able to explore in another materiality. Focus on getting comfortable with the basic tools (forking and editing the code's data, color, and string inputs), then use your design exercises to conceptualize where you would like to take visualization as a form of making in the future.
