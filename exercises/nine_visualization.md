@@ -16,7 +16,7 @@ As with our other exercises, make sure to include both a link to any digital ele
 
 ## Walkthrough and Resources
 
-![Pie chart](/materials/p5sample.png)
+![Pie chart](../img/p5sample.png)
 
 The three samples are shared using [Open Processing](https://openprocessing.org/). This platform is free and lets us eliminate certain steps (like uploading to a web server or configuring the file system) so we can focus on playing with the library itself. Start by creating a free account, then navigate to the samples covered in the video and fork each in turn to make your own iterations:
 
