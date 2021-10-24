@@ -202,7 +202,7 @@ Tutorial: Scalar
 - Micha Cardenas, [*Redshift & Portalmetal*](https://collection.eliterature.org/3/work.html?work=redshift-and-portalmetal)
 - Evan Bissell, [*The Knotted Line*](https://scalar.usc.edu/anvc/the-knotted-line/index)
 - Explore: [Scalar exhibitions](https://libraries.usc.edu/collection/digital-exhibitions)
-- **Making Exercise Ten: Exhibition**
+- **[Making Exercise Ten: Exhibition](/exercises/ten_scalar.md)**
 
 ### Week Eleven: Narratives (Monday, November 1, 2021)
 
