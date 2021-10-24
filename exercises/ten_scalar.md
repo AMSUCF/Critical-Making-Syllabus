@@ -2,6 +2,12 @@
 
 This week, we'll be exploring [Scalar](https://scalar.usc.edu/works/), an interface-driven platform for building articles, books, exhibitions, and similar interactive scholarship. Like Omeka, this is a tool that can support very ambitious and vast work, so we'll only be using some of its capabilities: don't worry about trying everything. If you have experience with other content management systems such as WordPress, you should find some of the interface elements generally familiar.
 
+![Pathfinders](../img/scalar.png)
+
+You'll need to get started by creating an account and following the tutorial to create a new project. Try using the built-in import features, and keep in mind how examples like [Pathfinders](https://scalar.usc.edu/works/pathfinders/index), shown above, make use of the page structures and rich media features to build the layers of the experience.
+
+However, don't feel confined in that type of formality - also recall the aesthetics and Twine-esque, hypertextual playfulness of [Redshift & Portalmetal](https://michacardenas.sites.ucsc.edu/redshift-and-portalmetal/), and consider how you can push at the expectations of the platforms as micha cárdenas models.
+
 ## The Exhibition Prompt
 
 As with Omeka, our focus this week will be on curating and representing relationships between existing materials. However, for this project you won't need to build the archive - instead, you can pull content from any of the affiliated archives built into Scalar, or from other sources relevant to your work. Curate an exhibition of inspiration correlated with your making: this might include linking games and multimedia projects from the [Internet Archive](https://archive.org/); citing scholarship, novels or poetry; and pulling digitized artwork from the collections.
