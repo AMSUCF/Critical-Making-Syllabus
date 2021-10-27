@@ -14,7 +14,7 @@ As we'll be taking our inspiration from electronic poetry and narratives as a fo
   
 - **Change aesthetics and poetics.** Play with the text, and think about how you can use text and color to convey emotion. Try building a mood, and consider branching out to draw in images or create a sense of space. We'll cover options for play in the live session, and the comments in the samples give suggestions of simple substitutions to try.
 
-_ **Brainstorm ideas for future work.** While your prototyping this week can be limited, and stick to the provided code, include in your reflection an idea for a more ambitious narrative or poetic project. Think about how you might use the gallery of examples on Open Processing for inspiration.
+- **Brainstorm ideas for future work.** While your prototyping this week can be limited, and stick to the provided code, include in your reflection an idea for a more ambitious narrative or poetic project. Think about how you might use the gallery of examples on Open Processing for inspiration.
 
 As always, include links and screenshots of your forked experiments, as well as a reflection on your inspirations and process.
 
