@@ -209,9 +209,10 @@ Tutorial: Scalar
 Tutorial: P5.js (part two)
 
 - *Design Justice*: Design Narratives
+- Explore: [E-poetry](http://iloveepoetry.org/?p=11968)
 - [*Black Beaches*](https://arij.net/investigations/black-beaches-en/)
-- Kenton Taylor Howard (link forthcoming)
-- **Making Exercise Eleven: Narrative**
+- Kenton Taylor Howard, [Life in the Megapocalypse](https://selfloud.net/Prototype/Howard/howard.html)
+- **[Making Exercise Eleven: Narrative](/exercises/eleven_narrative.md)**
   
 ### Week Twelve: Sites (Monday, November 8, 2021)
 
@@ -233,7 +234,7 @@ Tutorial: Humanities Commons
 
 ### Week Fourteen: Futures (Monday, November 22, 2021)
 
-Tutorial: ArcGIS
+Tutorial: StoryMap
 
 - *Design Justice*: Directions for Future Work
 - Katherine Hepworth and Christopher Church, ["Racism in the Machine: Visualization Ethics in Digital Humanities Projects."](http://www.digitalhumanities.org/dhq/vol/12/4/000408/000408.html)
