@@ -221,7 +221,7 @@ Tutorial: Timeline.js
 - *Design Justice*: Design Sites
 - Kathryn Holland and Susan Brown, "Project \ Process \ Product: Feminist Digital Subjectivity in a Shifting Scholarly Field" in [*Bodies of Information*](https://dhdebates.gc.cuny.edu/projects/bodies-of-information)
 - Marika Cifor and Britt S. Paris, [*Throughlines: Social Injustice and Activism in Los Angeles.](https://scalar.usc.edu/works/throughlines/index)
-- **Making Exercise Twelve: Timeline**
+- **[Making Exercise Twelve: Timeline](/exercises/twelve_timeline.md)**
 
 ### Week Thirteen: Pedagogies (Monday, November 15, 2021)
 
@@ -240,7 +240,7 @@ Tutorial: StoryMap
 - Katherine Hepworth and Christopher Church, ["Racism in the Machine: Visualization Ethics in Digital Humanities Projects."](http://www.digitalhumanities.org/dhq/vol/12/4/000408/000408.html)
 - Nesbit and Ayers, ["Visualizing Emancipation."](https://dsl.richmond.edu/emancipation/)
 - Crider and Anderson, ["Disney Death Tour"](https://kairos.technorhetoric.net/23.2/topoi/crider-anderson/index.html)
-- **Making Exercise Fourteen: Map**
+- **Making Exercise Fourteen: Map (Extra Credit)**
 
 ### Week Fifteen: Creating (Monday, November 29, 2021)
 
