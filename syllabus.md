@@ -230,7 +230,7 @@ Tutorial: Humanities Commons
 - *Design Justice*: Design Pedagogies
 - Debbie Chachra, "Beyond Making" in [*Making Things and Drawing Boundaries*](https://dhdebates.gc.cuny.edu/projects/making-things-and-drawing-boundaries)
 - Explore: [*Digital Pedagogy in the Humanities*](https://digitalpedagogy.hcommons.org/)
-- **Making Exercise Thirteen: Lesson**
+- **[Making Exercise Thirteen: Lesson](/exercises/thirteen_lesson.md)**
 
 ### Week Fourteen: Futures (Monday, November 22, 2021)
 
