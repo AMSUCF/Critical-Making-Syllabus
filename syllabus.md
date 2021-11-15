@@ -247,7 +247,7 @@ Tutorial: StoryMap
 - Jeremy Boggs, Jennifer Reed, and J.K. Purdom Lindblad, "Making it Matter" in [*Making Things and Drawing Boundaries*](https://dhdebates.gc.cuny.edu/projects/making-things-and-drawing-boundaries)
 - Vera Sebert, [*The Book You are Looking For Does Not Exist*](https://the-book-you-are-looking-for-does-not-exist.xyz/)
 - Koeser, Doroudian, Budak, Li. "Data Beyond Vision" in [*Startwords* Issue 1](https://startwords.cdh.princeton.edu/)
-- **Making Exercise Fifteen: Multimodal**
+- **[Making Exercise Fifteen: Multimodal](exercises/fifteen_multimodal.md)**
 
 ### Final Reflection (Monday, December 6, 2021)
 
