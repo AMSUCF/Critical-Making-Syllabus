@@ -16,11 +16,11 @@ Here's a few playful examples of works that similarly collide mechanics, and ret
 - [Wake Word](https://adirobertson.itch.io/wake-word)
 - [Unmaking, Unmade](https://gcbaccaris.itch.io/unmade)
 
-# The Metagame Prompt
+## The Metagame Prompt
 
 For this exercise, you have substantial flexibility in form, but a focused goal in concept. This making exercise should have a clear meta component, and provide an interaction that itself reflects on the platform, the technologies involved, the modality of play, and/or the experience of player traversal. Keep the following goals in mind as you make:
 
-- **Craft a new experience.** This should not be a simple redesign of one of your previous exercises, but a thoughtful revisitation reflecting a substantial attempt to change the type of engagement possible (some thematic, content, and structural overlaps are fine, but this should clearly provide something different and reflect an extension of the skills used to build.) 
+- **Craft a new experience.** This should not be a simple redesign of one of your previous exercises, but a thoughtful revisitation reflecting a substantial attempt to change the type of engagement possible (some thematic, content, and structural overlaps are fine, but this should clearly provide something different and reflect an extension of the skills used to build.)
 
 - **Mix and remix modalities.** The references in the tutorial and below focus on adding movement/animation, visual styling, audio, and other elements on top of the initial capabilities of each platform - or for a full remix, try combining the Twine and Bitsy engines together.
 

@@ -240,7 +240,7 @@ Tutorial: StoryMap
 - Katherine Hepworth and Christopher Church, ["Racism in the Machine: Visualization Ethics in Digital Humanities Projects."](http://www.digitalhumanities.org/dhq/vol/12/4/000408/000408.html)
 - Nesbit and Ayers, ["Visualizing Emancipation."](https://dsl.richmond.edu/emancipation/)
 - Crider and Anderson, ["Disney Death Tour"](https://kairos.technorhetoric.net/23.2/topoi/crider-anderson/index.html)
-- **Making Exercise Fourteen: Map (Extra Credit)**
+- **[Making Exercise Fourteen: Map (Extra Credit)](exercises/fourteen_maps.md)**
 
 ### Week Fifteen: Creating (Monday, November 29, 2021)
 
@@ -251,7 +251,7 @@ Tutorial: StoryMap
 
 ### Final Reflection (Monday, December 6, 2021)
 
-- Submit & complete your reflection, as well as any approved late work, by the end of finals week!
+- Submit & complete your [Final Reflection](exercises/reflection.md), as well as any approved late work, by the end of finals week!
 
 ---
 
