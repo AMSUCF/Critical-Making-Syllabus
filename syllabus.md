@@ -32,7 +32,7 @@
     - [Week Thirteen: Pedagogies (Monday, November 15, 2021)](#week-thirteen-pedagogies-monday-november-15-2021)
     - [Week Fourteen: Futures (Monday, November 22, 2021)](#week-fourteen-futures-monday-november-22-2021)
     - [Week Fifteen: Creating (Monday, November 29, 2021)](#week-fifteen-creating-monday-november-29-2021)
-    - [Final Reflection (Monday, December 6, 2021)](#final-reflection-monday-december-6-2021)
+    - [Final Reflection (Due December 11, 2021)](#final-reflection-due-december-11-2021)
   - [General Policies](#general-policies)
     - [Academic Integrity](#academic-integrity)
     - [Responses to Academic Dishonesty, Plagiarism, or Cheating](#responses-to-academic-dishonesty-plagiarism-or-cheating)
@@ -244,12 +244,12 @@ Tutorial: StoryMap
 
 ### Week Fifteen: Creating (Monday, November 29, 2021)
 
-- Jeremy Boggs, Jennifer Reed, and J.K. Purdom Lindblad, "Making it Matter" in [*Making Things and Drawing Boundaries*](https://dhdebates.gc.cuny.edu/projects/making-things-and-drawing-boundaries)
+- Natalie Loveless, *How to Make Art at the End of the World* (PDF selection in Canvas)
 - Vera Sebert, [*The Book You are Looking For Does Not Exist*](https://the-book-you-are-looking-for-does-not-exist.xyz/)
 - Koeser, Doroudian, Budak, Li. "Data Beyond Vision" in [*Startwords* Issue 1](https://startwords.cdh.princeton.edu/)
 - **[Making Exercise Fifteen: Multimodal](exercises/fifteen_multimodal.md)**
 
-### Final Reflection (Monday, December 6, 2021)
+### Final Reflection (Due December 11, 2021)
 
 - Submit & complete your [Final Reflection](exercises/reflection.md), as well as any approved late work, by the end of finals week!
 
