@@ -7,7 +7,7 @@ function setup() {
   textFont("Georgia");
 
   findRhymes();
-}
+
 
 function draw() {
   background(100, 0, 100);
