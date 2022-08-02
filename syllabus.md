@@ -7,6 +7,8 @@
   
 ---
 
+<center><img src="img/cmheader.png"></center>
+
 ## Contents
 
 - [ENG 6819: Critical Making for Humanist Scholarship](#eng-6819-critical-making-for-humanist-scholarship)
