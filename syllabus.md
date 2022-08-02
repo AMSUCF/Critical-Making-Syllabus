@@ -92,9 +92,9 @@ In addition, each module includes samples, tutorials, and resources to guide the
 
 Students can access their grades and feedback at any time using the Grade Book function of Webcourses. All assignments will be submitted through Webcourses. Plan on checking the site at least twice a week for updates and assignment information. Grades are calculated out of 100 following a standard letter scale.
 
-Late work is accepted without penalty through the next major assignment deadline. If circumstances require extension beyond that deadline, please reach out to the instructor immediately.
+Late work is accepted without penalty for one week after the listed deadline. If circumstances require extension beyond that deadline, please reach out to the instructor immediately.
 
-There is no extra credit work available in this class. Grades will be available through Webcourses and updated weekly.
+There is one extra credit making exercise option available at the end of the semester for those who miss a weeek. Grades will be available through Webcourses and updated weekly.
 
 ---
 
@@ -241,7 +241,7 @@ Tutorial: StoryMap
 - Katherine Hepworth and Christopher Church, ["Racism in the Machine: Visualization Ethics in Digital Humanities Projects."](http://www.digitalhumanities.org/dhq/vol/12/4/000408/000408.html)
 - Nesbit and Ayers, ["Visualizing Emancipation."](https://dsl.richmond.edu/emancipation/)
 - Crider and Anderson, ["Disney Death Tour"](https://kairos.technorhetoric.net/23.2/topoi/crider-anderson/index.html)
-- **[Making Exercise Fourteen: Map (Extra Credit)](exercises/fourteen_maps.md)**
+- **[Making Exercise Fourteen: Map](exercises/fourteen_maps.md)**
 
 ### Week Fifteen: Creating (Monday, November 28)
 
@@ -253,6 +253,7 @@ Tutorial: StoryMap
 ### Final Reflection (Due December 9)
 
 - Submit & complete your [Final Reflection](exercises/reflection.md), as well as any approved late work, by the end of finals week!
+- **Extra Credit Making Exercise: Generation**
 
 ---
 
