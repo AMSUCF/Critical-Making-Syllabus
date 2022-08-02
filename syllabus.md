@@ -2,7 +2,7 @@
 
 - **Instructor:** Dr. Anastasia Salter
 - **Email:** anastasia@ucf.edu
-- **Office:** Zoom; Monday 2:00 - 5:00 PM
+- **Office:** Zoom and TCH 236B; Monday 2:00 - 5:00 PM
 - **Course Meeting:** Asynchronous Online
   
 ---
@@ -17,27 +17,26 @@
   - [Evaluation and Grading](#evaluation-and-grading)
   - [Asynchronous Online Course Structure](#asynchronous-online-course-structure)
   - [Weekly Schedule](#weekly-schedule)
-    - [Week One: Shape of Our Thoughts (Monday, August 23, 2021)](#week-one-shape-of-our-thoughts-monday-august-23-2021)
-    - [Week Two: Unflattening (Monday, August 30, 2021)](#week-two-unflattening-monday-august-30-2021)
-    - [Week Three: Terms of Usage (Monday, September 6, 2021)](#week-three-terms-of-usage-monday-september-6-2021)
-    - [Week Four: Hypertext (Monday, September 13, 2021)](#week-four-hypertext-monday-september-13-2021)
-    - [Week Five: Games (Monday, September 20, 2021)](#week-five-games-monday-september-20-2021)
-    - [Week Six: Platforms (Monday, September 27, 2021)](#week-six-platforms-monday-september-27-2021)
-    - [Week Seven: Noise (Monday, October 4, 2021)](#week-seven-noise-monday-october-4-2021)
-    - [Week Eight: Archives (Monday, October 11, 2021)](#week-eight-archives-monday-october-11-2021)
-    - [Week Nine: Values (Monday, October 18, 2021)](#week-nine-values-monday-october-18-2021)
-    - [Week Ten: Practices (Monday, October 25, 2021)](#week-ten-practices-monday-october-25-2021)
-    - [Week Eleven: Narratives (Monday, November 1, 2021)](#week-eleven-narratives-monday-november-1-2021)
-    - [Week Twelve: Sites (Monday, November 8, 2021)](#week-twelve-sites-monday-november-8-2021)
-    - [Week Thirteen: Pedagogies (Monday, November 15, 2021)](#week-thirteen-pedagogies-monday-november-15-2021)
-    - [Week Fourteen: Futures (Monday, November 22, 2021)](#week-fourteen-futures-monday-november-22-2021)
-    - [Week Fifteen: Creating (Monday, November 29, 2021)](#week-fifteen-creating-monday-november-29-2021)
-    - [Final Reflection (Due December 11, 2021)](#final-reflection-due-december-11-2021)
+    - [Week One: Shape of Our Thoughts (Monday, August 22)](#week-one-shape-of-our-thoughts-monday-august-22)
+    - [Week Two: Unflattening (Monday, August 29)](#week-two-unflattening-monday-august-29)
+    - [Week Three: Terms of Usage (Monday, September 5)](#week-three-terms-of-usage-monday-september-5)
+    - [Week Four: Hypertext (Monday, September 12)](#week-four-hypertext-monday-september-12)
+    - [Week Five: Games (Monday, September 19)](#week-five-games-monday-september-19)
+    - [Week Six: Platforms (Monday, September 26)](#week-six-platforms-monday-september-26)
+    - [Week Seven: Noise (Monday, October 3)](#week-seven-noise-monday-october-3)
+    - [Week Eight: Archives (Monday, October 10)](#week-eight-archives-monday-october-10)
+    - [Week Nine: Values (Monday, October 17)](#week-nine-values-monday-october-17)
+    - [Week Ten: Practices (Monday, October 24)](#week-ten-practices-monday-october-24)
+    - [Week Eleven: Narratives (Monday, October 31)](#week-eleven-narratives-monday-october-31)
+    - [Week Twelve: Sites (Monday, November 7)](#week-twelve-sites-monday-november-7)
+    - [Week Thirteen: Pedagogies (Monday, November 14)](#week-thirteen-pedagogies-monday-november-14)
+    - [Week Fourteen: Futures (Monday, November 21)](#week-fourteen-futures-monday-november-21)
+    - [Week Fifteen: Creating (Monday, November 28)](#week-fifteen-creating-monday-november-28)
+    - [Final Reflection (Due December 9)](#final-reflection-due-december-9)
   - [General Policies](#general-policies)
     - [Academic Integrity](#academic-integrity)
     - [Responses to Academic Dishonesty, Plagiarism, or Cheating](#responses-to-academic-dishonesty-plagiarism-or-cheating)
     - [Course Accessibility Statement](#course-accessibility-statement)
-    - [Land Acknowledgement Statement](#land-acknowledgement-statement)
     - [Campus Safety Statement](#campus-safety-statement)
     - [Deployed Active Duty Military Students](#deployed-active-duty-military-students)
     - [Authorized Events and Religious Observances](#authorized-events-and-religious-observances)
@@ -85,9 +84,9 @@ In addition, each module includes samples, tutorials, and resources to guide the
 
 | Points  | Assignment Summary | Due Date  |
 |---|---|---|
-| 5  | **Activity Verification** - Complete the brief survey posted on Webcourses as soon as possible to confirm your enrollment in the course. As this is required by the university, please attend to it as soon as possible at the start of classes. | Friday, August 27, 2021  |
+| 5  | **Activity Verification** - Complete the brief survey posted on Webcourses as soon as possible to confirm your enrollment in the course. As this is required by the university, please attend to it as soon as possible at the start of classes. | Friday, August 26  |
 | 75  | **Making Exercises** - Weekly discussions will consist of making, sharing, and reflecting on the process of exploring. We will work from tutorials and try a new form every week, with reflective questions connecting our process of making to the theoretical frameworks and provocations offered by our readings. | Weekly |
-| 20 | **Reflection** - During the final exam week, students will complete a written reflective essay on their journey, with particular consideration to next steps and potential future applications of the making mechanisms introduced throughout the semester.  | Monday, December 6, 2021  |
+| 20 | **Reflection** - During the final exam week, students will complete a written reflective essay on their journey, with particular consideration to next steps and potential future applications of the making mechanisms introduced throughout the semester.  | Friday, December 9  |
 
 Students can access their grades and feedback at any time using the Grade Book function of Webcourses. All assignments will be submitted through Webcourses. Plan on checking the site at least twice a week for updates and assignment information. Grades are calculated out of 100 following a standard letter scale.
 
@@ -110,7 +109,7 @@ This course uses a fully asynchronous online format, and relies upon students to
 
 ## Weekly Schedule
 
-### Week One: Shape of Our Thoughts (Monday, August 23, 2021)
+### Week One: Shape of Our Thoughts (Monday, August 22)
 
 - *Unflattening* - First Half
 - Matt Ratto, "Critical Making: Conceptual and Material Studies in Technology and Social Life." (PDF)
@@ -118,7 +117,7 @@ This course uses a fully asynchronous online format, and relies upon students to
 - **Due: Activity Verification (Friday August 27th)**
 - **[Making Exercise One: "Selfie"](/exercises/one_selfie.md)**
 
-### Week Two: Unflattening (Monday, August 30, 2021)
+### Week Two: Unflattening (Monday, August 29)
 
 Tutorial: Pixlr
 
@@ -127,7 +126,7 @@ Tutorial: Pixlr
 - Jason Helms, [*Rhizcomics*](https://www.digitalrhetoriccollaborative.org/rhizcomics/)
 - **[Making Exercise Two: Comic](/exercises/two_comic.md)**
 
-### Week Three: Terms of Usage (Monday, September 6, 2021)
+### Week Three: Terms of Usage (Monday, September 5)
 
 Tutorial: Video
 
@@ -137,7 +136,7 @@ Tutorial: Video
 - Explore: [*Buzzademia*](http://hyperrhiz.io/hyperrhiz21/)
 - **[Making Exercise Three: "Internet Vernacular"](/exercises/three_gifs.md)**
 
-### Week Four: Hypertext (Monday, September 13, 2021)
+### Week Four: Hypertext (Monday, September 12)
 
 Tutorial: Twine
 
@@ -147,7 +146,7 @@ Tutorial: Twine
 - Explore: [*The Digital Review*](https://thedigitalreview.com/)
 - **[Making Exercise Four: Hypertext](/exercises/four_hypertext.md)**
   
-### Week Five: Games (Monday, September 20, 2021)
+### Week Five: Games (Monday, September 19)
 
 Tutorial: Bitsy
 
@@ -157,7 +156,7 @@ Tutorial: Bitsy
 - Explore: [The Bitsy Essay Jam](https://itch.io/jam/the-bitsy-essay-jam/entries)
 - **[Making Exercise Five: Game](/exercises/five_games.md)**
 
-### Week Six: Platforms (Monday, September 27, 2021)
+### Week Six: Platforms (Monday, September 26)
 
 Tutorial: Glitch
 
@@ -166,7 +165,7 @@ Tutorial: Glitch
 - Explore: [The RHIZ-cade](http://media.hyperrhiz.io/hyperrhiz22/sf/pinball/index.html)
 - **[Making Exercise Six: Metagame](/exercises/six_meta.md)**
   
-### Week Seven: Noise (Monday, October 4, 2021)
+### Week Seven: Noise (Monday, October 3)
 
 Tutorial: Tracery
 
@@ -175,7 +174,7 @@ Tutorial: Tracery
 - Explore: [NaNoGenMo](https://nanogenmo.github.io/)
 - **[Making Exercise Seven: Generator](/exercises/seven_generator.md)**
 
-### Week Eight: Archives (Monday, October 11, 2021)
+### Week Eight: Archives (Monday, October 10)
 
 Tutorial: Omeka
 
@@ -184,7 +183,7 @@ Tutorial: Omeka
 - Explore: [Omeka Showcase](https://omeka.org/classic/showcase/)
 - **[Making Exercise Eight: Curation](/exercises/eight_omeka.md)**
 
-### Week Nine: Values (Monday, October 18, 2021)
+### Week Nine: Values (Monday, October 17)
 
 Tutorial: P5.js (part one)
 
@@ -194,7 +193,7 @@ Tutorial: P5.js (part one)
 - Explore: [*Kairos Special Issue: Data Visualization*](https://kairos.technorhetoric.net/25.1/index.html)
 - **[Making Exercise Nine: Visualization](/exercises/nine_visualization.md)**
 
-### Week Ten: Practices (Monday, October 25, 2021)
+### Week Ten: Practices (Monday, October 24)
 
 Tutorial: Scalar
 
@@ -204,7 +203,7 @@ Tutorial: Scalar
 - Explore: [Scalar exhibitions](https://libraries.usc.edu/collection/digital-exhibitions)
 - **[Making Exercise Ten: Exhibition](/exercises/ten_scalar.md)**
 
-### Week Eleven: Narratives (Monday, November 1, 2021)
+### Week Eleven: Narratives (Monday, October 31)
 
 Tutorial: P5.js (part two)
 
@@ -214,7 +213,7 @@ Tutorial: P5.js (part two)
 - Kenton Taylor Howard, [Life in the Megapocalypse](https://selfloud.net/Prototype/Howard/howard.html)
 - **[Making Exercise Eleven: Narrative](/exercises/eleven_narrative.md)**
   
-### Week Twelve: Sites (Monday, November 8, 2021)
+### Week Twelve: Sites (Monday, November 7)
 
 Tutorial: Timeline.js
 
@@ -223,7 +222,7 @@ Tutorial: Timeline.js
 - Marika Cifor and Britt S. Paris, [*Throughlines: Social Injustice and Activism in Los Angeles.](https://scalar.usc.edu/works/throughlines/index)
 - **[Making Exercise Twelve: Timeline](/exercises/twelve_timeline.md)**
 
-### Week Thirteen: Pedagogies (Monday, November 15, 2021)
+### Week Thirteen: Pedagogies (Monday, November 14)
 
 Tutorial: Humanities Commons
 
@@ -232,7 +231,7 @@ Tutorial: Humanities Commons
 - Explore: [*Digital Pedagogy in the Humanities*](https://digitalpedagogy.hcommons.org/)
 - **[Making Exercise Thirteen: Lesson](/exercises/thirteen_lesson.md)**
 
-### Week Fourteen: Futures (Monday, November 22, 2021)
+### Week Fourteen: Futures (Monday, November 21)
 
 Tutorial: StoryMap
 
@@ -242,14 +241,14 @@ Tutorial: StoryMap
 - Crider and Anderson, ["Disney Death Tour"](https://kairos.technorhetoric.net/23.2/topoi/crider-anderson/index.html)
 - **[Making Exercise Fourteen: Map (Extra Credit)](exercises/fourteen_maps.md)**
 
-### Week Fifteen: Creating (Monday, November 29, 2021)
+### Week Fifteen: Creating (Monday, November 28)
 
 - Natalie Loveless, *How to Make Art at the End of the World* (PDF selection in Canvas)
 - Vera Sebert, [*The Book You are Looking For Does Not Exist*](https://the-book-you-are-looking-for-does-not-exist.xyz/)
 - Koeser, Doroudian, Budak, Li. "Data Beyond Vision" in [*Startwords* Issue 1](https://startwords.cdh.princeton.edu/)
 - **[Making Exercise Fifteen: Multimodal](exercises/fifteen_multimodal.md)**
 
-### Final Reflection (Due December 11, 2021)
+### Final Reflection (Due December 9)
 
 - Submit & complete your [Final Reflection](exercises/reflection.md), as well as any approved late work, by the end of finals week!
 
@@ -289,10 +288,6 @@ Students should also familiarize themselves with the procedures for academic mis
 This course is built with universal design for learning principles in mind: if you encounter challenges with any of the course materials, assignments, platforms, or requirements, please reach out for assistance, and know that additional support is always available regardles of documentation.
 
 Additionally, the University of Central Florida is committed to providing access and inclusion for all persons with disabilities. Students with disabilities who need access to course content due to course design limitations should contact the professor as soon as possible. Students should also connect with [Student Accessibility Services (SAS)](http://sas.sdes.ucf.edu/) (Ferrell Commons 185, sas@ucf.edu, phone 407-823-2371). For students connected with SAS, a Course Accessibility Letter may be created and sent to professors, which informs faculty of potential course access and accommodations that might be necessary and reasonable. Determining reasonable access and accommodations requires consideration of the course design, course learning objectives and the individual academic and course barriers experienced by the student. Further conversation with SAS, faculty and the student may be warranted to ensure an accessible course experience.
-
-### Land Acknowledgement Statement
-
-The UCF Department of English acknowledges that our main campus stands on the traditional territories of the Seminole and Timucua peoples, and that other Native American traditional territories exist throughout Florida where our regional campuses are located. We collectively recognize their continuing connection to the land, water, and air and pay respect to their elders past, present, and emerging. We recognize the continuing consequences of colonialism on Indigenous peoples and their resilience in the face of colonial and state sponsored violence, and we fully endorse Indigenous Sovereignty.
 
 ### Campus Safety Statement
 
