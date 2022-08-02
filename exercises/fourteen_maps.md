@@ -1,6 +1,6 @@
 # Exercise Fourteen: Maps
 
-As this week is shortened due to the holiday, this mapping exercise is optional: it's an opportunity to think about spatial visualizations using a simple, limited interface for telling map-driven stories. It is comprable to more advanced (and expensive) tools popular in public history and digital humanities usage, such as [ArcGIS](https://www.esri.com/en-us/arcgis/products/arcgis-storymaps/overview).
+This week's exercise is an opportunity to think about spatial visualizations using a simple, limited interface for telling map-driven stories. It is comprable to more advanced (and expensive) tools popular in public history and digital humanities usage, such as [ArcGIS](https://www.esri.com/en-us/arcgis/products/arcgis-storymaps/overview).
 
 ![Storymap example](../img/storymap.png)
 
@@ -14,7 +14,7 @@ For this exercise, you'll need a concept that is best explored spatially. Think 
 
 - **Multimedia integration and experimentation.** As we look ahead to our final multimodal exercise, think about ways you can embed and build upon the other types of media you've made in this class. Try using a variety through the story.
 
-- **Tell a story.** Use narrative, poetics, or critical discussion to link the nodes of your map, and think about the ways the interface allows you to construct meaningful relationships through both locations and content.
+- **Telling a story.** Use narrative, poetics, or critical discussion to link the nodes of your map, and think about the ways the interface allows you to construct meaningful relationships through both locations and content.
 
 As always, link to your finished storymap with screenshots from your process and iterations within your reflection post, and don't forget to check back to discuss with others doing this bonus exercise.
 
