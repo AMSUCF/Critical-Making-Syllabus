@@ -164,7 +164,7 @@ Tutorial: Glitch
 
 - *Your Computer is On Fire* - Part III
 - Stephanie Boluk and Patrick LeMieux, "Metagaming: Videogames and the Practice of Play." in [*Metagaming*](https://manifold.umn.edu/read/metagaming/section/ca0c7a57-96bf-41fc-910b-3652b6872404#intro)
-- Explore: [The RHIZ-cade](http://media.hyperrhiz.io/hyperrhiz22/sf/pinball/index.html)
+- Explore: [The ELC Volume 4](https://collection.eliterature.org/4/)
 - **[Making Exercise Six: Metagame](/exercises/six_meta.md)**
   
 ### Week Seven: Noise (Monday, October 3)
@@ -212,7 +212,7 @@ Tutorial: P5.js (part two)
 - *Design Justice*: Design Narratives
 - Explore: [E-poetry](http://iloveepoetry.org/?p=11968)
 - [*Black Beaches*](https://arij.net/investigations/black-beaches-en/)
-- Kenton Taylor Howard, [Life in the Megapocalypse](https://selfloud.net/Prototype/Howard/howard.html)
+- [The HTML Review](https://thehtml.review/)
 - **[Making Exercise Eleven: Narrative](/exercises/eleven_narrative.md)**
   
 ### Week Twelve: Sites (Monday, November 7)
