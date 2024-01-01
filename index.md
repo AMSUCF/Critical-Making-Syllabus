@@ -41,7 +41,9 @@
     - [Course Accessibility Statement](#course-accessibility-statement)
     - [Campus Safety Statement](#campus-safety-statement)
     - [Deployed Active Duty Military Students](#deployed-active-duty-military-students)
-    - [Authorized Events and Religious Observances](#authorized-events-and-religious-observances)
+    - [Make-Up Assignments for Authorized University Events or Co-curricular Activities](#make-up-assignments-for-authorized-university-events-or-co-curricular-activities)
+    - [Religious Observances](#religious-observances)
+    - [Title IX Policy](#title-ix-policy)
 
 ---
 
@@ -226,8 +228,8 @@ Tutorial: P5.js (part two)
 Tutorial: Humanities Commons
 
 - *Design Justice*: Design Pedagogies
-
 - Explore: [*Digital Pedagogy in the Humanities*](https://digitalpedagogy.hcommons.org/)
+- Additional readings featuring recent examples TBD
 - **[Optional Making Exercise Thirteen: Multimodal]()**
 
 ### Final Reflection (Due Sunday, April 28)
@@ -287,8 +289,14 @@ Emergencies on campus are rare, but if one should arise during class, everyone n
 
 Students who are deployed active duty military and/or National Guard personnel and require accommodation should contact their instructors as soon as possible after the semester begins and/or after they receive notification of deployment to make related arrangements.
 
-### Authorized Events and Religious Observances
+### Make-Up Assignments for Authorized University Events or Co-curricular Activities
 
-Students who represent the university in an authorized event or activity (for example, student-athletes) and who are unable to meet a course deadline due to a conflict with that event must provide the instructor with documentation in advance to arrange a make-up. No penalty will be applied.
+Students who represent the university in an authorized event or activity (for example, student-athletes) and who are unable to meet a course deadline due to a conflict with that event must provide the instructor with documentation in advance to arrange a make-up. No penalty will be applied. For more information, see the [UCF policy]("https://policies.ucf.edu/documents/4-401.pdf").
+
+### Religious Observances
 
 Students must notify their instructor in advance if they intend to miss class for a religious observance. For more information, see the [UCF policy](http://regulations.ucf.edu/chapter5/documents/5.020ReligiousObservancesFINALJan19.pdf).
+
+### Title IX Policy
+
+Title IX prohibits sex discrimination, including sexual misconduct, sexual violence, sexual harassment, and retaliation. If you or someone you know has been harassed or assaulted, you can find resources available to support the victim, including confidential resources and information concerning reporting options at [Let's Be Clear](https://letsbeclear.ucf.edu) and [CARES](http://cares.sdes.ucf.edu/).
