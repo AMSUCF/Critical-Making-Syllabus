@@ -125,7 +125,7 @@ This course uses a fully asynchronous online format, and relies upon students to
 - Frank Auerbach, ["Twenty Self-Portraits (Review)"](https://www.theguardian.com/artanddesign/2023/apr/14/frank-auerbach-twenty-self-portraits-review-hazlitt-holland-hibbert-london)
 - Piecework Collective, ["Self Portrait"](https://pieceworkcollective.com/2018/)
 - Johnson and Salter, "Chapter One: Selfie"
-- **[Making Exercise One: "Selfie"]()**
+- **[Making Exercise One: "Selfie"](materials/one_selfie)**
 
 ### Week Three: Comic (Monday, January 22)
 
