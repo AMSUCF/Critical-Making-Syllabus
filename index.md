@@ -125,6 +125,7 @@ This course uses a fully asynchronous online format, and relies upon students to
 - Frank Auerbach, ["Twenty Self-Portraits (Review)"](https://www.theguardian.com/artanddesign/2023/apr/14/frank-auerbach-twenty-self-portraits-review-hazlitt-holland-hibbert-london)
 - Piecework Collective, ["Self Portrait"](https://pieceworkcollective.com/2018/)
 - Johnson and Salter, "Chapter One: Selfie"
+- **Featured Guest: Anne Sullivan**
 - **[Making Exercise One: "Selfie"](exercises/one_selfie)**
 
 ### Week Three: Comic (Monday, January 22)
@@ -134,7 +135,8 @@ This course uses a fully asynchronous online format, and relies upon students to
 - Scott McCloud, ["My Obsession with Chess."](https://scottmccloud.com/1-webcomics/chess/chess.html)
 - Jason Helms, [*Rhizcomics*](https://www.digitalrhetoriccollaborative.org/rhizcomics/)
 - Johnson and Salter, "Chapter Two: Comic"
-- **[Making Exercise Two: Comic]()**
+- **Featured Guest: Jason Helms**
+- **[Making Exercise Two: Comic](exercises/two_comic)**
 
 ### Week Four: GIF (Monday, January 29)
 
@@ -150,6 +152,7 @@ This course uses a fully asynchronous online format, and relies upon students to
 - Nesbit and Ayers, ["Visualizing Emancipation."](https://dsl.richmond.edu/emancipation/)
 - Crider and Anderson, ["Disney Death Tour"](https://kairos.technorhetoric.net/23.2/topoi/crider-anderson/index.html)
 - Johnson and Salter, "Chapter Four: Map"
+- **Featured Guest: Claudia Berger**
 - **[Making Exercise Four: Map]()**
 
 ### Week Six: Hypertext (Monday, February 12)
@@ -185,6 +188,7 @@ This course uses a fully asynchronous online format, and relies upon students to
 - Catherine D'Ignazio and Lauren Klein, "Feminist Data Visualization." (PDF)
 - Micki Kaufman, [*Quantifying Kissinger*](https://blog.quantifyingkissinger.com/)
 - Johnson and Salter, "Chapter Eight: Analysis"
+- **Featured Guest: Sam Blickhan**
 - **[Making Exercise Eight: Analysis]()**
 
 ### Week Ten: Generation (Monday, March 11) 
