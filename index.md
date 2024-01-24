@@ -144,6 +144,7 @@ This course uses a fully asynchronous online format, and relies upon students to
 - David Staley, "On the 'Maker Turn' in Digital Humanities." in [*Making Things and Drawing Boundaries*](https://dhdebates.gc.cuny.edu/projects/making-things-and-drawing-boundaries)
 - Explore: [*Buzzademia*](http://hyperrhiz.io/hyperrhiz21/)
 - Johnson and Salter, "Chapter Three: GIF" 
+- **Featured Guest: Lyle Skains**
 - **[Making Exercise Three: GIF](exercises/three_gifs)**
 
 ### Week Five: Map (Monday, February 5)
