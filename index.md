@@ -29,7 +29,7 @@
     - [Week Eight: Grammar (Monday, February 26)](#week-eight-grammar-monday-february-26)
     - [Week Nine: Analysis (Monday, March 4)](#week-nine-analysis-monday-march-4)
     - [Week Ten: Generation (Monday, March 11)](#week-ten-generation-monday-march-11)
-    - [Week Eleven: Spring Break - March 18th - 22nd](#week-eleven-spring-break---march-18th---22nd)
+    - [Week Eleven: Spring Break - March 18th - 22](#week-eleven-spring-break---march-18th---22)
     - [Week Twelve: Code (Monday, March 25)](#week-twelve-code-monday-march-25)
     - [Week Thirteen: Narratives (Monday, April 1)](#week-thirteen-narratives-monday-april-1)
     - [Week Fourteen: Combinations (Monday, April 8)](#week-fourteen-combinations-monday-april-8)
@@ -162,6 +162,7 @@ This course uses a fully asynchronous online format, and relies upon students to
 - Rachel Ponce, [Surviving History: The Fever!](http://theappendix.net/special/the-fever)
 - Explore: [*The Digital Review*](https://thedigitalreview.com/)
 - Johnson and Salter, "Chapter Five: Hypertext"
+- **Featured Guest: Lee Skallerup Bessette**
 - **[Making Exercise Five: Hypertext]()**
   
 ### Week Seven: Game (Monday, February 19)
@@ -201,18 +202,17 @@ This course uses a fully asynchronous online format, and relies upon students to
 - Johnson and Salter, "Chapter Nine: Generation"
 - **[Making Exercise Nine: Generation]()**
 
-### Week Eleven: Spring Break - March 18th - 22nd
+### Week Eleven: Spring Break - March 18th - 22
 
 ### Week Twelve: Code (Monday, March 25)
 
 - *Design Justice*: Design Practices
-- Kathryn Holland and Susan Brown, "Project \ Process \ Product: Feminist Digital Subjectivity in a Shifting Scholarly Field" in [*Bodies of Information*](https://dhdebates.gc.cuny.edu/projects/bodies-of-information)
+- Kathryn Holland and Susan Brown, "Project \ Process \ Product: Feminist Dica Pgital Subjectivity in a Shifting Scholarly Field" in [*Bodies of Information*](https://dhdebates.gc.cuny.edu/projects/bodies-of-information)
 - Salter and Johnson, "Chapter Ten: Crafting Futures in the Age of AI"
+- **Featured Guest: Jessica Parr**
 - **[Making Exercise Ten: Visualization]()**
 
 ### Week Thirteen: Narratives (Monday, April 1)
-
-Tutorial: P5.js (part two)
 
 - *Design Justice*: Design Narratives
 - Debbie Chachra, "Beyond Making" in [*Making Things and Drawing Boundaries*](https://dhdebates.gc.cuny.edu/projects/making-things-and-drawing-boundaries)
@@ -229,8 +229,6 @@ Tutorial: P5.js (part two)
 - **[Making Exercise Twelve: GitHub]()**
 
 ### Week Fifteen: Futures (Monday, April 15)
-
-Tutorial: Humanities Commons
 
 - *Design Justice*: Design Pedagogies
 - Explore: [*Digital Pedagogy in the Humanities*](https://digitalpedagogy.hcommons.org/)
