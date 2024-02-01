@@ -154,7 +154,7 @@ This course uses a fully asynchronous online format, and relies upon students to
 - Crider and Anderson, ["Disney Death Tour"](https://kairos.technorhetoric.net/23.2/topoi/crider-anderson/index.html)
 - Johnson and Salter, "Chapter Four: Map"
 - **Featured Guest: Claudia Berger**
-- **[Making Exercise Four: Map]()**
+- **[Making Exercise Four: Map](exercises/four_maps)**
 
 ### Week Six: Hypertext (Monday, February 12)
 
