@@ -163,7 +163,7 @@ This course uses a fully asynchronous online format, and relies upon students to
 - Explore: [*The Digital Review*](https://thedigitalreview.com/)
 - Johnson and Salter, "Chapter Five: Hypertext"
 - **Featured Guest: Lee Skallerup Bessette**
-- **[Making Exercise Five: Hypertext]()**
+- **[Making Exercise Five: Hypertext](exercises/five_hypertext)**
   
 ### Week Seven: Game (Monday, February 19)
 
