@@ -1,6 +1,6 @@
 # Making Exercise Five: Hypertext
 
-Hypertext is, fundamentally, linked text: the structure of the link is the most meaningful innovation the web offers us, as it offers both a way of crafting internal structures and external connections that can be immediately realized. You interact with hypertext all the time, primarily through browsers and social media platforms. In this pattern, you’ll be making a hypertext using a free tool, Twine, in two stages: a physical prototype followed by a playable hypertext. As you work, keep in mind the 
+Hypertext is, fundamentally, linked text: the structure of the link is the most meaningful innovation the web offers us, as it offers both a way of crafting internal structures and external connections that can be immediately realized. You interact with hypertext all the time, primarily through browsers and social media platforms. In this pattern, you’ll be making a hypertext using a free tool, Twine, in two stages: a physical prototype followed by a playable hypertext. You can view the demo from this week's lecture [here](https://amsucf.github.io/Critical-Making-Syllabus/exercises/materials/CriticalMaking.html).
 
 As you work on the physical prototype and the hypertext itself, think about:
 
