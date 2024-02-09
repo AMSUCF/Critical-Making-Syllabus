@@ -52,6 +52,6 @@ If you have experience or want to go beyond this initial tutorial, here's a few 
 
 ## Quick Tips
 
-1. Consider hosting your .html file, particularly if you want to include images, GIFs, and other audiovisual components. You can use hosting space you already have, or consider sharing your Twine work on GitHub pages like my demo here. If you're new to the program and haven't used GitHub, don't worry about this optoin yet - we'll talk about it more later!
-2. Remember, don't use the web-based version of Twine 2 unless absolutely necessary, and if you are using it, make sure to save your .html file to your computer regularly! This is not an online hosting service, and you won't be able to access your project from a different browser.
+1. Consider hosting your .html file, particularly if you want to include images, GIFs, and other audiovisual components. You can use hosting space you already have, or consider sharing your Twine work on GitHub pages like my demo here. If you haven't used GitHub, don't worry about this option yet - we'll talk about it more later!
+2. Remember, if you use the web based version of Twine 2, save your .html file to your computer regularly! This is not an online hosting service, and you won't be able to access your project from a different browser.
 3. While there's lots of options out there for greater procedural complexity, don't worry about learning anything complex for this project! Focus on simple, choice-driven representation and exploring an idea to make a compelling argument. You don't need to use any elements that weren't covered in the demo (this week's video), but you are welcome to experiment!
