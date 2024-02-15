@@ -172,7 +172,8 @@ This course uses a fully asynchronous online format, and relies upon students to
 - cecile richard, [*Endless Scroll*](https://haraiva.itch.io/endless-scroll)
 - Explore: [The Bitsy Essay Jam](https://itch.io/jam/the-bitsy-essay-jam/entries)
 - Johnson and Salter, "Chapter Six: Game"
-- **[Making Exercise Six: Game]()**
+- **Featured Guest: Daniel Cox**
+- **[Making Exercise Six: Game](exercises/six_game)**
 
 ### Week Eight: Grammar (Monday, February 26)
 
