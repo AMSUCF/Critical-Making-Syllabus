@@ -182,7 +182,8 @@ This course uses a fully asynchronous online format, and relies upon students to
 - Leonardo Flores, ["Genre: Bot:](https://iloveepoetry.org/?p=5427)
 - Explore: [NaNoGenMo](https://nanogenmo.github.io/)
 - Johnson and Salter, "Chapter Seven: Grammar"
-- **[Making Exercise Seven: Generator]()**
+- **Featured Guest: Leonardo Flores**
+- **[Making Exercise Seven: Grammar](exercises/seven_generator)**
 
 ### Week Nine: Analysis (Monday, March 4)
 
