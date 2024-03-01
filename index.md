@@ -193,7 +193,7 @@ This course uses a fully asynchronous online format, and relies upon students to
 - Micki Kaufman, [*Quantifying Kissinger*](https://blog.quantifyingkissinger.com/)
 - Johnson and Salter, "Chapter Eight: Analysis"
 - **Featured Guest: Sam Blickhan**
-- **[Making Exercise Eight: Analysis]()**
+- **[Making Exercise Eight: Analysis](exercises/eight_analysis.md)**
 
 ### Week Ten: Generation (Monday, March 11) 
 
