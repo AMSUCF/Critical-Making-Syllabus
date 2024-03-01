@@ -1,4 +1,4 @@
-# Making Exercise Nine: Visualization
+# Making Exercise Eight: Analysis
 
 For this exercise you'll be performing an analysis of text with [Voyant](voyant-tools.org), a web-based digital humanities tool that can work with a wide range of textual data sources directly. After you've found something interesting in the analysis, take your findings into an alternative visualization using any making method that feels appropriate to you -- GIF, comic, illustration, Twine, etc. As you work with Voyant and visualize the results, keep in mind:
 
