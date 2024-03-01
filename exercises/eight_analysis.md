@@ -4,7 +4,7 @@ For this exercise you'll be performing an analysis of text with [Voyant](voyant-
 
 - **Explore the possibilities of Voyant itself.** Try the different built-in tools for visualization and textual exploration detailed below and think about this linkage, and particularly how the act of making text visual is in dialogue with our larger conversations around image-text as well as other tools for visualization we’ve considered.
 
-- **Explore meaning at scale.** Working with a small set of texts won’t really allow you to see compelling patterns easily: this type of exploration works best with very large datasets. Look at examples that build across novels, like the compelling work of the [atasitter’s Club visualizing all the *Babysitter’s Club* books across the years 
+- **Explore meaning at scale.** Working with a small set of texts won’t really allow you to see compelling patterns easily: this type of exploration works best with very large datasets. Look at examples that build across novels, like the compelling work of the [Datasitter’s Club](https://datasittersclub.github.io/site/dsc6.html) visualizing all the *Babysitter’s Club* books across the years 
 
 - **Think about visualization as interpretation** You can work in any materiality or format that makes sense for the visualization, from textile to comic and beyond. Document your visualization through photos, screenshots, or sharing the interactive work as appropriate to the form. It's ok for this visualization to be rough or to use speculative data at this stage.
 
