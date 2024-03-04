@@ -202,6 +202,7 @@ This course uses a fully asynchronous online format, and relies upon students to
 - Steven Levy, ["Google's NotebookLM Aims to Be the Ultimate Writing Assistant"](https://www.wired.com/story/googles-notebooklm-ai-ultimate-writing-assistant/)
 - Explore: [*Kairos Special Issue: Data Visualization*](https://kairos.technorhetoric.net/25.1/index.html)
 - Johnson and Salter, "Chapter Nine: Generation"
+- **Featured Guest: Paul Shovlin**
 - **[Making Exercise Nine: Generation]()**
 
 ### Week Eleven: Spring Break - March 18th - 22
