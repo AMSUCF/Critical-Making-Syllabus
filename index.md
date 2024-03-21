@@ -213,7 +213,7 @@ This course uses a fully asynchronous online format, and relies upon students to
 - Kathryn Holland and Susan Brown, "Project \ Process \ Product: Feminist Dica Pgital Subjectivity in a Shifting Scholarly Field" in [*Bodies of Information*](https://dhdebates.gc.cuny.edu/projects/bodies-of-information)
 - Salter and Johnson, "Chapter Ten: Crafting Futures in the Age of AI"
 - **Featured Guest: Jessica Parr**
-- **[Making Exercise Ten: Visualization]()**
+- **[Making Exercise Ten: Visualization](exercises/ten_visualization)**
 
 ### Week Thirteen: Narratives (Monday, April 1)
 
