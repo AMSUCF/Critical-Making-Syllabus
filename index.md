@@ -221,6 +221,7 @@ This course uses a fully asynchronous online format, and relies upon students to
 - Debbie Chachra, "Beyond Making" in [*Making Things and Drawing Boundaries*](https://dhdebates.gc.cuny.edu/projects/making-things-and-drawing-boundaries)
 - Explore: [E-poetry](http://iloveepoetry.org/?p=11968)
 - [*Black Beaches*](https://arij.net/investigations/black-beaches-en/)
+- **Featured Guest: Quinn Dombrowski**
 - **[Making Exercise Eleven: Narrative]()**
   
 ### Week Fourteen: Combinations (Monday, April 8)
@@ -229,6 +230,7 @@ This course uses a fully asynchronous online format, and relies upon students to
 - Natalie Loveless, *How to Make Art at the End of the World* (PDF selection in Canvas)
 - Vera Sebert, [*The Book You are Looking For Does Not Exist*](https://the-book-you-are-looking-for-does-not-exist.xyz/)
 - Koeser, Doroudian, Budak, Li. "Data Beyond Vision" in [*Startwords* Issue 1](https://startwords.cdh.princeton.edu/)
+- **Featured Guest: Caitlin Fisher**
 - **[Making Exercise Twelve: GitHub]()**
 
 ### Week Fifteen: Futures (Monday, April 15)
@@ -236,6 +238,7 @@ This course uses a fully asynchronous online format, and relies upon students to
 - *Design Justice*: Design Pedagogies
 - Explore: [*Digital Pedagogy in the Humanities*](https://digitalpedagogy.hcommons.org/)
 - Additional readings featuring recent examples TBD
+- **Featured Guest: PS Berge**
 - **[Optional Making Exercise Thirteen: Multimodal]()**
 
 ### Final Reflection (Due Sunday, April 28)
