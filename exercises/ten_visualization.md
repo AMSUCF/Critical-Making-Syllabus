@@ -10,7 +10,7 @@ This week's exercise serves two goals: we'll begin exploring the act of visualiz
 
 - **Conceptualize a larger visualization concept.** Drawing on the expressive examples in the reading and your own work thus far, consider something in your work that would be well-served by visualization. In your reflection, note the challenges this visualization might present, considering particularly your audience and how you might approach this communication as a designer informed by the principles in our readings.
 
-- **Explore an AI generated alternative visualization.** Using the same methods we tried last week in generation, and the models I've given you, work with an AI tool to design another type of generation. Remember to specify to the generative Ai that you are using P5.js, and work to be as clear as possible on the goals of your visualization and data.
+- **use AI to prototype this larger P5  visualization.** Using the same methods we tried last week in generation, and the models I've given you, work with an AI tool to generate a prototype of the more complex P5.JS visualization you've envisioned. Remember to specify to the generative Ai that you are using P5.js, and work to be as clear as possible on the goals of your visualization and data.
 
 As with our other exercises, make sure to include both a link to any digital elements as well as documentation of the process, including the conversation with generative AI.
 
