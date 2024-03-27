@@ -219,10 +219,10 @@ This course uses a fully asynchronous online format, and relies upon students to
 
 - *Design Justice*: Design Narratives
 - Debbie Chachra, "Beyond Making" in [*Making Things and Drawing Boundaries*](https://dhdebates.gc.cuny.edu/projects/making-things-and-drawing-boundaries)
-- Explore: [E-poetry](http://iloveepoetry.org/?p=11968)
+- Explore: [Games made with P5.js](https://itch.io/games/made-with-p5js)
 - [*Black Beaches*](https://arij.net/investigations/black-beaches-en/)
 - **Featured Guest: Quinn Dombrowski**
-- **[Making Exercise Eleven: Narrative]()**
+- **[Making Exercise Eleven: Narrative](exercises/eleven_narrative)**
   
 ### Week Fourteen: Combinations (Monday, April 8)
 
