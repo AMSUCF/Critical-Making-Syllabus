@@ -231,7 +231,7 @@ This course uses a fully asynchronous online format, and relies upon students to
 - Vera Sebert, [*The Book You are Looking For Does Not Exist*](https://the-book-you-are-looking-for-does-not-exist.xyz/)
 - Koeser, Doroudian, Budak, Li. "Data Beyond Vision" in [*Startwords* Issue 1](https://startwords.cdh.princeton.edu/)
 - **Featured Guest: Caitlin Fisher**
-- **[Making Exercise Twelve: GitHub]()**
+- **[Making Exercise Twelve: GitHub](exercises/twelve_github)**
 
 ### Week Fifteen: Futures (Monday, April 15)
 
