@@ -237,9 +237,10 @@ This course uses a fully asynchronous online format, and relies upon students to
 
 - *Design Justice*: Design Pedagogies
 - Explore: [*Digital Pedagogy in the Humanities*](https://digitalpedagogy.hcommons.org/)
-- Additional readings featuring recent examples TBD
+- Quinn Dombrowski, [*Future Text*](https://quinndombrowski.com/textiles/future-text/)
+- Joshua Reinier, [*Z^k: A Zettelkablooey*](https://thedigitalreview.com/issue03/zk/index.html)
 - **Featured Guest: PS Berge**
-- **[Optional Making Exercise Thirteen: Multimodal]()**
+- **[Optional Making Exercise Thirteen: Multimodal](exercises/thirteen_multimodal)**
 
 ### Final Reflection (Due Sunday, April 28)
 
